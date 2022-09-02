@@ -8,8 +8,8 @@ I am a second-year student of Applied Mathematics and Computer Science at St. Pe
 
 ### My knowledge
 
-- Dart & Flutter
-- Python (Matplotlib, Django, Flask, Pillow, Numpy)
+- **Dart & Flutter**
+- **Python (Matplotlib, Django, Flask, Pillow, Numpy)**
 - С (stdlib) 
 - С++ (SFML)
 - HTML, CSS, LESS
