@@ -14,6 +14,7 @@ I am a second-year student of Applied Mathematics and Computer Science at St. Pe
 - С++ (SFML)
 - HTML, CSS, LESS
 - JavaScript
+- Kotlin
 - SQL
 - Git: GitHub, GitLab
 <p>
