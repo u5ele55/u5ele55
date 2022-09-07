@@ -2,7 +2,7 @@
 
 I am a second-year student of Applied Mathematics and Computer Science at St. Petersburg State Electrotechnical University. 
 My favorite programming languages are Dart and Python. 
-I love to develop mobile apps with Flutter and automate any kind of work with Python. 
+I love to develop mobile apps with Flutter and automate any kind of work. 
 
 ### My knowledge
 
