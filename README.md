@@ -7,7 +7,7 @@ I love to develop mobile apps with Flutter and automate any kind of work.
 ### My knowledge
 
 - **Dart & Flutter**
-- **Python (Matplotlib, Django, Flask, Pillow, Numpy)**
+- **Python**
 - С (stdlib) 
 - С++ (SFML)
 - HTML, CSS, LESS
