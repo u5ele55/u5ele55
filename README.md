@@ -1,15 +1,14 @@
 ## Welcome to my page! [⚡️🐑](https://bulbapedia.bulbagarden.net/wiki/Mareep_(Pok%C3%A9mon))
 
 I am a second-year student of Applied Mathematics and Computer Science at St. Petersburg State Electrotechnical University. 
-My favorite programming languages are Dart and Python. 
-I love to develop mobile apps with Flutter and automate any kind of work. 
+I like to develop mobile apps with Flutter and automate any kind of work. 
 
 ### My knowledge
 
-- **Dart & Flutter**
 - **Python**
 - С (stdlib) 
 - С++ (SFML)
+- Dart & Flutter
 - HTML, CSS, LESS
 - JavaScript
 - Kotlin
