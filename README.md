@@ -7,7 +7,7 @@ I like to develop mobile apps with Flutter and automate any kind of work.
 
 - **Python**
 - С (stdlib) 
-- С++ (SFML)
+- С++ (SFML, STL)
 - Dart & Flutter
 - HTML, CSS, LESS
 - JavaScript
