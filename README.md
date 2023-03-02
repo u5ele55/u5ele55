@@ -6,12 +6,11 @@ I like to develop mobile apps with Flutter and automate any kind of work.
 ### My knowledge
 
 - **Python**
-- С (stdlib) 
 - С++ (Qt5, SFML, STL)
+- С (stdlib) 
 - Dart & Flutter
 - HTML, CSS, LESS
 - JavaScript
-- Kotlin
 - SQL
 - Git: GitHub, GitLab
 <p>
