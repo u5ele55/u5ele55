@@ -1,7 +1,6 @@
 ## Welcome to my page! [⚡️🐑](https://bulbapedia.bulbagarden.net/wiki/Mareep_(Pok%C3%A9mon))
 
 I am a second-year student of Applied Mathematics and Computer Science at St. Petersburg State Electrotechnical University. 
-I like to develop mobile apps with Flutter and automate any kind of work. 
 
 ### My knowledge
 
