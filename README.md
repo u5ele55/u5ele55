@@ -1,16 +1,13 @@
 ## Welcome to my page! [⚡️🐑](https://bulbapedia.bulbagarden.net/wiki/Mareep_(Pok%C3%A9mon))
 
-I am a second-year student of Applied Mathematics and Computer Science at St. Petersburg State Electrotechnical University. 
+I am a third-year student of Applied Mathematics and Computer Science at St. Petersburg State Electrotechnical University. 
 
 ### My knowledge
 
-- **Python**
-- С++ (Qt5, SFML, STL)
+- С++
+- Python
 - С (stdlib) 
 - Dart & Flutter
-- HTML, CSS, LESS
-- JavaScript
-- SQL
 - Git: GitHub, GitLab
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=u5ele55&layout=compact&hide=jupyter%20notebook&langs_count=5"/>      
