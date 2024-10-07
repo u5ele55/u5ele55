@@ -1,6 +1,6 @@
 ## Welcome to my page! [⚡️🐑](https://bulbapedia.bulbagarden.net/wiki/Mareep_(Pok%C3%A9mon))
 
-I am a third-year student of Applied Mathematics and Computer Science at St. Petersburg State Electrotechnical University. 
+I am a fourth-year student of Applied Mathematics and Computer Science at St. Petersburg State Electrotechnical University. 
 
 ### My knowledge
 
@@ -8,6 +8,7 @@ I am a third-year student of Applied Mathematics and Computer Science at St. Pet
 - Python
 - С (stdlib) 
 - Dart & Flutter
+- SQL
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=u5ele55&layout=compact&hide=jupyter%20notebook&langs_count=5"/>      
 </p>
@@ -16,7 +17,6 @@ I am a third-year student of Applied Mathematics and Computer Science at St. Pet
 
 - Telegram: [@slavyanskyy](https://t.me/slavyanskyy)
 - Email: slavikshag@gmail.com
-- Tel: +7 (953) 535-49-24
 
 
 
