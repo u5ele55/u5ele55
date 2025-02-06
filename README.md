@@ -6,11 +6,10 @@ I am a fourth-year student of Applied Mathematics and Computer Science at St. Pe
 
 - С++
 - Python
-- С (stdlib) 
 - Dart & Flutter
 - SQL
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=u5ele55&layout=compact&hide=jupyter%20notebook&langs_count=6"/>      
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=u5ele55&layout=compact&hide=jupyter%20notebook&langs_count=5"/>      
 </p>
 
 ### How to contact me
